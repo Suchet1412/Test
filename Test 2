@@ -1,0 +1,50 @@
+ * Meta
+ * Google
+ * Anthropic
+ * xAI
+ * Mistral AI
+ * OpenAI
+ * Video
+ * Google
+ * Image generation
+ * Code generation and completion
+ * Large Language Model
+ * AI that creates new content (text, code, images, audio, video)
+ * Input instruction or text provided to an AI model
+ * Background instructions defining the model's behavior and persona
+ * Processing multiple formats (text, images, audio, video) together
+ * AI generating factually false or fabricated information
+ * Basic units of text (words or subwords) processed by LLMs
+ * Maximum token limit a model can process at one time
+ * Using a trained model to generate output from new input
+ * Training an existing model on specific data for a specific task
+ * An autonomous AI system that can plan and take actions using tools
+ * Chatbots only chat; agents execute actions and workflows
+ * An AI invoking external APIs or functions to perform tasks
+ * Model Context Protocol
+ * Authentication and billing
+ * Limit on the number of requests or tokens allowed per time window
+ * AI code editor (IDE)
+ * Synthesizing, querying, and summarizing user-uploaded notes and documents
+ * Search based on meaning and context rather than exact keywords
+ * Code generation, debugging, unit test creation
+ * Converting spoken audio to text (ASR)
+ * Converting written text to spoken speech (TTS)
+ * Text (printed, handwritten, or typed)
+ * An AI model that analyzes and understands visual data
+ * Generating video clips from text descriptions
+ * Image and video generation
+ * High parallel processing power for matrix and tensor calculations
+ * Neural Processing Unit
+ * Model weights, activations, and KV cache
+ * Executing the model on your own device without cloud servers
+ * A model whose trained weights are publicly downloadable
+ * Training a smaller student model to mimic a larger teacher model
+ * Efficient fine-tuning using low-rank matrices (PEFT)
+ * Mixture of Experts
+ * Standardized test to evaluate and compare AI performance
+ * Safety filters and rules preventing harmful or unintended outputs
+ * Tampering with prompts to bypass model rules and safety constraints
+ * Personally Identifiable Information
+ * Risk of data leaks, privacy loss, and unauthorized model retraining
+ * Fact-check and verify with reliable primary sources
